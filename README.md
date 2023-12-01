@@ -1,2 +1,2 @@
 # react-strapi-e-commerce-app
-On work React Ecommerce App Repo
+React Ecommerce App that is fully Responsive with Stripe Payment
